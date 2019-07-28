@@ -1,0 +1,10 @@
+C:\Users\Gokce\Desktop\TechizatYenileme\TechizatYenileme\bin\Debug\TechizatYenileme.exe.config
+C:\Users\Gokce\Desktop\TechizatYenileme\TechizatYenileme\bin\Debug\TechizatYenileme.exe
+C:\Users\Gokce\Desktop\TechizatYenileme\TechizatYenileme\bin\Debug\TechizatYenileme.pdb
+C:\Users\Gokce\Desktop\TechizatYenileme\TechizatYenileme\obj\Debug\TechizatYenileme.csprojResolveAssemblyReference.cache
+C:\Users\Gokce\Desktop\TechizatYenileme\TechizatYenileme\obj\Debug\TechizatYenileme.Form1.resources
+C:\Users\Gokce\Desktop\TechizatYenileme\TechizatYenileme\obj\Debug\TechizatYenileme.Properties.Resources.resources
+C:\Users\Gokce\Desktop\TechizatYenileme\TechizatYenileme\obj\Debug\TechizatYenileme.csproj.GenerateResource.cache
+C:\Users\Gokce\Desktop\TechizatYenileme\TechizatYenileme\obj\Debug\TechizatYenileme.csproj.CoreCompileInputs.cache
+C:\Users\Gokce\Desktop\TechizatYenileme\TechizatYenileme\obj\Debug\TechizatYenileme.exe
+C:\Users\Gokce\Desktop\TechizatYenileme\TechizatYenileme\obj\Debug\TechizatYenileme.pdb
